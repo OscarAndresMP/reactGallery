@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactGallery/static/css/main.55d8c45c.chunk.css",
+    "main.js": "/reactGallery/static/js/main.ca3a4e0c.chunk.js",
+    "main.js.map": "/reactGallery/static/js/main.ca3a4e0c.chunk.js.map",
+    "runtime-main.js": "/reactGallery/static/js/runtime-main.afba10da.js",
+    "runtime-main.js.map": "/reactGallery/static/js/runtime-main.afba10da.js.map",
+    "static/js/2.57ad7feb.chunk.js": "/reactGallery/static/js/2.57ad7feb.chunk.js",
+    "static/js/2.57ad7feb.chunk.js.map": "/reactGallery/static/js/2.57ad7feb.chunk.js.map",
+    "index.html": "/reactGallery/index.html",
+    "static/css/main.55d8c45c.chunk.css.map": "/reactGallery/static/css/main.55d8c45c.chunk.css.map",
+    "static/js/2.57ad7feb.chunk.js.LICENSE.txt": "/reactGallery/static/js/2.57ad7feb.chunk.js.LICENSE.txt",
+    "static/media/CampoFlores.f53b01bc.jpg": "/reactGallery/static/media/CampoFlores.f53b01bc.jpg",
+    "static/media/jirasoles.27dcbf0e.jpg": "/reactGallery/static/media/jirasoles.27dcbf0e.jpg",
+    "static/media/montañas.0e63428d.jpg": "/reactGallery/static/media/montañas.0e63428d.jpg",
+    "static/media/nieve.ec821599.jpg": "/reactGallery/static/media/nieve.ec821599.jpg",
+    "static/media/planetas.1f57f164.jpg": "/reactGallery/static/media/planetas.1f57f164.jpg",
+    "static/media/universo.52a8ed09.jpg": "/reactGallery/static/media/universo.52a8ed09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afba10da.js",
+    "static/js/2.57ad7feb.chunk.js",
+    "static/css/main.55d8c45c.chunk.css",
+    "static/js/main.ca3a4e0c.chunk.js"
+  ]
+}
