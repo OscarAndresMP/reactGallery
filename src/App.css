@@ -1,7 +1,7 @@
 .img-tamaño{
     margin-top: 10px;
-    max-width:150px;
-    max-height: 150px;
+    max-width:140px;
+    max-height: 130px;
     border-radius:10px;
     transition: all 0.5s ease;
     transform: scale(1.2);
@@ -26,17 +26,14 @@
 .img-tamaño:hover{
     transform: scale(1);
 }
-.presentacion{
-    max-width:600px;
-    /* border-radius: 1em; */
-    padding-left: 350px;
-
+.container{
+    padding: left 350px;
 }
 
 .presentacion img{
 
     width:500px;
-    height: 450px;
+    height: 400px;
     border-radius:5px;
     box-shadow: 1em 1em 2em #242424, -1em -1em 2em #3c3c3c, inset 0 0 0 transparent, inset 0 0 0 transparent;
 
@@ -44,9 +41,7 @@
 }
 
 @media  screen and (max-width:450px){
-    .presentacion{
-        padding-left:0;
-    }
+
 }
 @media  screen and (max-width:700px){
     .presentacion{
@@ -55,6 +50,6 @@
 }
 @media  screen and (max-width:900px){
     .presentacion{
-        padding-left: 150px;
+        padding-left: 15px;
     }
 }
